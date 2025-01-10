@@ -8,6 +8,10 @@ You can find the source code for this project at the following GitHub repository
 
 [Spot-the-Diff Source Code](https://github.com/Devansh-Rawat-gamedev/Spot-the-diff)
 
+[Spot-the-Diff Live Game](https://github.com/Devansh-Rawat-gamedev/spot-the-difference-build-/tree/main)
+
+
+
 ## Description
 
 This game challenges players to spot the differences between two images. The game is designed to dynamically load the images and their differences from a JSON file, making it easy to add new levels and modify the differences without altering the game code.
