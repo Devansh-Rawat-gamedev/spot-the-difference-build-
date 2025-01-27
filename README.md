@@ -1,4 +1,4 @@
-# Spot-the-Difference Game
+# Spot-the-Difference Game(Dynamic Json File)
 
 A dynamic "Spot the Difference" game built with Unity. The game loads its data (images and differences) from a JSON file, allowing easy customization and updates without changing the game logic.
 
